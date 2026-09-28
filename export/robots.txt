@@ -1,0 +1,6 @@
+# TEST verzija: pristup je dozvoljen da bi roboti videli "noindex" u index.html.
+# Adresu ispod zameniti pravim domenom.
+User-agent: *
+Allow: /
+
+Sitemap: https://VAS-DOMEN.rs/sitemap.xml
